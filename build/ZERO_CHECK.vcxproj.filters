@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\iremo\Desktop\circleLineDetection\build\CMakeFiles\89bf573e26b204a8c58631b046b6a94c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7CC0D807-6949-3117-8237-A59B84E80B55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

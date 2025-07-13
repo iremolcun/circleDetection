@@ -1,0 +1,10 @@
+^C:\USERS\IREMO\DESKTOP\CIRCLELINEDETECTION\BUILD\CMAKEFILES\89BF573E26B204A8C58631B046B6A94C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/iremo/Desktop/circleLineDetection -BC:/Users/iremo/Desktop/circleLineDetection/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/iremo/Desktop/circleLineDetection/build/EdgeHoughDetection.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
